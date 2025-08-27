@@ -11,17 +11,10 @@
 
 - 📫 How to reach me **phandj01@wsc.edu**
 
-- 💬 Connect? Lets get social @ **https://www.linkedin.com/in/dljohnson1234/**
+- 💬 Connect? Lets get social @ **https://www.linkedin.com/in/diwenitissiou-andjawo**
 
-
-I have held numerous IT positions including software analyst and project management for world market leaders. I have a wide range of technology experience ranging from microcomputer support to programming in numerous languages utilizing a variety of databases and hardware platforms.
 
 ### Education
+- B.A., Computer Science, Wayne State College, 2025
 
-- MSOM, IT Management, Wayne State College, 2016
-
-- B.A., Computer Information Systems/Web Analyst, Wayne State College, 2014
-
-- A.A., Northeast Community College, 2014
-
-- AAS, Computer Programming, Northeast Community College, 1984
+- AAS, Information technology, Western Nebraska Community College, 2023
