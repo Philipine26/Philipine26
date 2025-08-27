@@ -9,7 +9,7 @@
 
 - 🧠 I like to learn something new
 
-- 📫 How to reach me **phandj0**
+- 📫 How to reach me **phandj01@wsc.edu**
 
 - 💬 Connect? Lets get social @ **https://www.linkedin.com/in/dljohnson1234/**
 
