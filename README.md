@@ -5,9 +5,9 @@
 
 - 📚 I’m studying to complete my Computer Science Bachelor Degree
 
-- 👨🏻‍💻 Love programming and resolving problems
+- 👨🏻‍💻 Love Starting projects as long as it is relates to computer 
 
-- 🧠 I like to learn something new
+- 🧠 I like challenging myself with any new things I learn
 
 - 📫 How to reach me **phandj01@wsc.edu**
 
